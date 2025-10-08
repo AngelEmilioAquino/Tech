@@ -1,4 +1,3 @@
-import React from 'react';
 import { CheckSquare, Clock, Users, AlertCircle, TrendingUp, Calendar } from 'lucide-react';
 
 interface DashboardProps {

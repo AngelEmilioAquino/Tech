@@ -1,5 +1,4 @@
-import React from 'react';
-import { Calendar, User, Tag, MoreVertical, Edit, Trash2 } from 'lucide-react';
+import { Calendar, User, Tag, Edit, Trash2 } from 'lucide-react';
 import { Task } from '../types';
 
 interface TaskCardProps {
